@@ -1,11 +1,11 @@
 <div align="center">
    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDA180&height=300&text=Welcome&fontAlignY=40&fontSize=70&fontColor=FFFFFF&desc=neck950728's%20GitHub&descAlign=60&descAlignY=55&animation=fadeIn">
-   <h6>
-      😄 안녕하세요!<br><br>
-      신입 백엔드 개발자 김민진입니다.<br><br>
+   <p>
+      😄 안녕하세요!<br>
+      신입 백엔드 개발자 김민진입니다.<br>
       저에 대해 더 자세히 알고 싶으시다면 아래 배지를 클릭해주세요!<br><br>
-      <img src="https://img.shields.io/badge/Click%20Me!-FF0000?style=flat-square&logo=quicklookn&logoColor=white">
-   </h6>
+      <a href="https://kmj7777777.github.io/Portfolio"><img src="https://img.shields.io/badge/Click%20Me!-FF0000?style=flat-square&logo=quicklookn&logoColor=white"></a>
+   </p>
 </div>
 
 ##
