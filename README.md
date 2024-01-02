@@ -3,7 +3,7 @@
    <p>
       😄 안녕하세요!<br>
       신입 백엔드 개발자 김민진입니다.<br>
-      저에 대해 더 자세히 알고 싶으시다면 아래 배지를 클릭해주세요!<br><br>
+      저에 대해 좀 더 자세히 알고 싶으시다면, 아래 배지를 클릭해주세요!<br><br>
       <a href="https://kmj7777777.github.io/Portfolio"><img src="https://img.shields.io/badge/Click%20Me!-FF0000?style=for-the-badge&logoColor=white"></a>
    </p>
 </div>
