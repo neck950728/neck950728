@@ -11,7 +11,7 @@
 <br>
 
 ## 📊 Stats
-[![Hits](https://hits.sh/github.com/neck950728.svg?style=flat-square&color=007ec6)](https://hits.sh/github.com/neck950728/)<br>
+[![Hits](https://hits.sh/github.com/neck950728.svg?style=flat-square&color=007EC6)](https://hits.sh/github.com/neck950728/)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neck950728&show_icons=true&theme=transparent&hide_title=true)
 
 <br>
