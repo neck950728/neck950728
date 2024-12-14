@@ -11,7 +11,7 @@
 <br>
 
 ## 📊 Stats
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneck950728&count_bg=%23007EC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)<br>
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fneck950728&count_bg=%23007EC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=neck950728&show_icons=true&theme=transparent&hide_title=true)
 
 <br>
